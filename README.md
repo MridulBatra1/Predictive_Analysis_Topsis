@@ -30,16 +30,16 @@ Data Collection ---> Calculating Root Square Sum for each feature ---> Normalizi
 
 ### Input Dataset:
 
-![alt text](image-1.png)
+![alt text](assets/image-1.png)
 ---
 
 ### Output Result:
 
-![alt text](image-2.png)
+![alt text](assets/image-2.png)
 
 ---
 
 ## 5. Web Application
 
-![alt text](image.png)
+![alt text](assets/image.png)
 
